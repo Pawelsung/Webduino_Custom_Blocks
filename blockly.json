@@ -1,5 +1,5 @@
 {
-  "types": ["get_time_ms"],
+  "types": ["get_time_ms", "get_time_seconds", "get_time_timestamp", "get_time_date", "get_time_string", "get_time_zone"],
   "category": "catUtilities",
   "scripts": [
     "blockly/blocks.js",
@@ -11,3 +11,4 @@
   "msg": "blockly/msg",
   "blocksMsg": "blockly/msg/blocks",
   "toolbox": "blockly/toolbox.xml"
+}
