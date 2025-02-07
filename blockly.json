@@ -1,12 +1,12 @@
 {
-  "types": ["get_time_ms"],
+  "types": ["controls_get_time_ms"],
   "category": "catUtilities",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"
   ],
   "dependencies": [
-    "main.js"    
+    "main.js"
   ],
   "msg": "blockly/msg",
   "blocksMsg": "blockly/msg/blocks",
