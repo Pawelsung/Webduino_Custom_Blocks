@@ -1,4 +1,22 @@
-<category id="peiExpansion" name="沛擴充" colour="230">
-    <block type="demo_add"></block>
-    <block type="demo_set"></block>
-</category>
+<xml>
+  <category id="catUtilities" name="工具" colour="230">
+    <block type="get_time_ms">  
+      <value name="id_">
+        <block type="get_time_seconds"></block>  
+      </value> 
+      <value name="property_">
+        <block type="get_time_date"></block> 
+      </value>
+      <value name="value_">
+        <block type="text">
+          <field name="TEXT"></field>
+        </block>
+      </value>
+    </block>
+    <block type="get_time_timestamp"></block>   
+    <block type="get_time_seconds"></block>  
+    <block type="get_time_date"></block> 
+    <block type="get_time_string"></block>     
+    <block type="get_time_zone"></block>  
+  </category>
+</xml>
