@@ -1,3 +1,3 @@
-<category id="catUtilities" name="工具" colour="230">
+<category id="catUtilities">
   <block type="controls_get_time_ms"></block>
 </category>
