@@ -1,0 +1,5 @@
+<xml>
+  <category name="Utilities" id="catUtilities" colour="230">
+    <block type="get_time_ms"></block>
+  </category>
+</xml>
