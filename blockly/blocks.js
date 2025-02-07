@@ -1,11 +1,10 @@
-{
-  "types": ["get_time_ms"],
-  "category": "catUtilities",
-  "scripts": [
-    "blockly/blocks.js",
-    "blockly/javascript.js"
-  ],
-  "msg": "blockly/msg",
-  "blocksMsg": "blockly/msg/blocks",
-  "toolbox": "blockly/toolbox.xml"
-}
+Blockly.Blocks['get_time_ms'] = {
+  init: function() {
+    this.appendDummyInput()
+        .appendField(Blockly.Msg["GET_TIME_MS"]);
+    this.setOutput(true, "Number");
+    this.setColour(230);
+    this.setTooltip(Blockly.Msg["GET_TIME_MS"]);
+    this.setHelpUrl("");
+  }
+};
