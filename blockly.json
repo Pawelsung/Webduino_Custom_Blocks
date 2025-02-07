@@ -8,7 +8,5 @@
   "dependencies": [
     "main.js"
   ],
-  "msg": "blockly/msg",
-  "blocksMsg": "blockly/msg/blocks",
   "toolbox": "blockly/toolbox.xml"
 }
