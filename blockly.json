@@ -1,6 +1,6 @@
 {
   "types": ["get_time_ms"],
-  "category": "catUtilities",
+  "category": "catPlus",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"
