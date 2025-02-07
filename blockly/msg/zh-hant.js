@@ -1,1 +1,2 @@
-Blockly.Msg["CATEGORY_UTILITIES"] = "工具";
+if (typeof MSG === "undefined") var MSG = {};
+MSG.catUtilities = "工具";
