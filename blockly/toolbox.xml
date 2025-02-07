@@ -1,5 +1,4 @@
-<xml>
-  <category name="Utilities" id="catUtilities" colour="230">
-    <block type="get_time_ms"></block>
-  </category>
-</xml>
+<category id="peiExpansion" name="沛擴充" colour="230">
+    <block type="demo_add"></block>
+    <block type="demo_set"></block>
+</category>
