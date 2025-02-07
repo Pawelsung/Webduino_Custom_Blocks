@@ -5,8 +5,5 @@
     "blockly/blocks.js",
     "blockly/javascript.js"
   ],
-  "dependencies": [
-    "main.js"
-  ],
   "toolbox": "blockly/toolbox.xml"
 }
